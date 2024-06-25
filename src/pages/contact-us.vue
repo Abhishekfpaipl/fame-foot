@@ -1,5 +1,5 @@
 <template>
-    <div class="bg-warning text-white" style="padding-top:66px">
+    <div class="bg-dark text-warning" style="padding-top:66px">
         <!-- <div class="text-white py-5" style=" background-color:var(--bg-primary) ;padding-bottom: 6rem !important;"
             v-observe>
             <h1 class="text-center mb-0 fw-bold">Contact Page</h1>
@@ -93,34 +93,50 @@
         <div class="my-3">
             <SocialSchedule v-observe />
         </div> -->
-        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quidem quis voluptatem assumenda nisi nihil expedita
-        quas dolore explicabo architecto deserunt maiores, quaerat, corrupti vero reprehenderit magni nobis tempore.
-        Voluptatum odio optio eum ratione alias sapiente ipsam rem corporis, numquam ipsum, dicta facilis consectetur
-        repellat nesciunt natus accusantium ab officiis delectus? Quia hic non consequuntur numquam alias maiores
-        inventore voluptate beatae perspiciatis asperiores. Porro, ut at? Repellat, harum. In dolorum mollitia
-        aspernatur consectetur consequatur obcaecati assumenda quo quaerat officia dolor pariatur molestiae sit tempora
-        sed dolorem beatae excepturi inventore fugit labore similique neque atque, expedita ut et! Repellendus officia
-        aut nulla veritatis vitae odit est voluptates odio blanditiis at, similique necessitatibus quam quae quia animi
-        recusandae accusantium fuga aspernatur cumque iusto dolores ut! Voluptatibus officia, molestias laborum itaque
-        perferendis aut quod, voluptate nostrum, qui neque fugit debitis ea consequatur suscipit illum laboriosam odit
-        nam nesciunt deleniti. Laudantium sit quasi nihil quidem, maiores velit eius enim odio, neque deleniti vel
-        voluptates. Quos accusantium quis odio alias animi quaerat eveniet accusamus nesciunt! Impedit quasi hic
-        eligendi facilis error facere voluptas eaque ipsum nobis atque consequatur provident laborum nulla, ipsa
-        veritatis recusandae? Facere illo unde excepturi porro quae consequatur? Rem saepe iusto nihil id.
-        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quidem quis voluptatem assumenda nisi nihil expedita
-        quas dolore explicabo architecto deserunt maiores, quaerat, corrupti vero reprehenderit magni nobis tempore.
-        Voluptatum odio optio eum ratione alias sapiente ipsam rem corporis, numquam ipsum, dicta facilis consectetur
-        repellat nesciunt natus accusantium ab officiis delectus? Quia hic non consequuntur numquam alias maiores
-        inventore voluptate beatae perspiciatis asperiores. Porro, ut at? Repellat, harum. In dolorum mollitia
-        aspernatur consectetur consequatur obcaecati assumenda quo quaerat officia dolor pariatur molestiae sit tempora
-        sed dolorem beatae excepturi inventore fugit labore similique neque atque, expedita ut et! Repellendus officia
-        aut nulla veritatis vitae odit est voluptates odio blanditiis at, similique necessitatibus quam quae quia animi
-        recusandae accusantium fuga aspernatur cumque iusto dolores ut! Voluptatibus officia, molestias laborum itaque
-        perferendis aut quod, voluptate nostrum, qui neque fugit debitis ea consequatur suscipit illum laboriosam odit
-        nam nesciunt deleniti. Laudantium sit quasi nihil quidem, maiores velit eius enim odio, neque deleniti vel
-        voluptates. Quos accusantium quis odio alias animi quaerat eveniet accusamus nesciunt! Impedit quasi hic
-        eligendi facilis error facere voluptas eaque ipsum nobis atque consequatur provident laborum nulla, ipsa
-        veritatis recusandae? Facere illo unde excepturi porro quae consequatur? Rem saepe iusto nihil id.
+        <h5 class="fw-bold">
+            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quidem quis voluptatem assumenda nisi nihil
+            expedita
+            quas dolore explicabo architecto deserunt maiores, quaerat, corrupti vero reprehenderit magni nobis tempore.
+            Voluptatum odio optio eum ratione alias sapiente ipsam rem corporis, numquam ipsum, dicta facilis
+            consectetur
+            repellat nesciunt natus accusantium ab officiis delectus? Quia hic non consequuntur numquam alias maiores
+            inventore voluptate beatae perspiciatis asperiores. Porro, ut at? Repellat, harum. In dolorum mollitia
+            aspernatur consectetur consequatur obcaecati assumenda quo quaerat officia dolor pariatur molestiae sit
+            tempora
+            sed dolorem beatae excepturi inventore fugit labore similique neque atque, expedita ut et! Repellendus
+            officia
+            aut nulla veritatis vitae odit est voluptates odio blanditiis at, similique necessitatibus quam quae quia
+            animi
+            recusandae accusantium fuga aspernatur cumque iusto dolores ut! Voluptatibus officia, molestias laborum
+            itaque
+            perferendis aut quod, voluptate nostrum, qui neque fugit debitis ea consequatur suscipit illum laboriosam
+            odit
+            nam nesciunt deleniti. Laudantium sit quasi nihil quidem, maiores velit eius enim odio, neque deleniti vel
+            voluptates. Quos accusantium quis odio alias animi quaerat eveniet accusamus nesciunt! Impedit quasi hic
+            eligendi facilis error facere voluptas eaque ipsum nobis atque consequatur provident laborum nulla, ipsa
+            veritatis recusandae? Facere illo unde excepturi porro quae consequatur? Rem saepe iusto nihil id.
+            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quidem quis voluptatem assumenda nisi nihil
+            expedita
+            quas dolore explicabo architecto deserunt maiores, quaerat, corrupti vero reprehenderit magni nobis tempore.
+            Voluptatum odio optio eum ratione alias sapiente ipsam rem corporis, numquam ipsum, dicta facilis
+            consectetur
+            repellat nesciunt natus accusantium ab officiis delectus? Quia hic non consequuntur numquam alias maiores
+            inventore voluptate beatae perspiciatis asperiores. Porro, ut at? Repellat, harum. In dolorum mollitia
+            aspernatur consectetur consequatur obcaecati assumenda quo quaerat officia dolor pariatur molestiae sit
+            tempora
+            sed dolorem beatae excepturi inventore fugit labore similique neque atque, expedita ut et! Repellendus
+            officia
+            aut nulla veritatis vitae odit est voluptates odio blanditiis at, similique necessitatibus quam quae quia
+            animi
+            recusandae accusantium fuga aspernatur cumque iusto dolores ut! Voluptatibus officia, molestias laborum
+            itaque
+            perferendis aut quod, voluptate nostrum, qui neque fugit debitis ea consequatur suscipit illum laboriosam
+            odit
+            nam nesciunt deleniti. Laudantium sit quasi nihil quidem, maiores velit eius enim odio, neque deleniti vel
+            voluptates. Quos accusantium quis odio alias animi quaerat eveniet accusamus nesciunt! Impedit quasi hic
+            eligendi facilis error facere voluptas eaque ipsum nobis atque consequatur provident laborum nulla, ipsa
+            veritatis recusandae? Facere illo unde excepturi porro quae consequatur? Rem saepe iusto nihil id.
+        </h5>
     </div>
 </template>
 
